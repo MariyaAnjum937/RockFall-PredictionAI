@@ -170,7 +170,8 @@ http://localhost:3000
 ## 👩‍💻 Authors
 
 * Mariya Anjum
-* Team Members (add here)
+* Sushma Kumari
+* Syeda Naazima Unnisa
 
 ---
 
